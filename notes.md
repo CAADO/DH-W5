@@ -15,3 +15,10 @@ Step four: editing. As I'm using a somewhat poor mic, (no pop filter or anything
 Step 5: suffer through my own voice. Being able to listen to yourself talk must be the final form of self-acceptace. I have not yet reached this, and so I fail this step partway thouugh, but the doc seems fine.
 
 and we're done with the audio section. 
+
+
+For the mapping side, I decided I wanted to tell a story I've found out through some other research: the related nature of the early "classical liberal" thinkers. I could define this by more complex definition, but I decided to just go with the men described on the wikipedia page. 
+
+I tried to use wikipedia pictures for the images, but that seems to have brutally failed. Not really sure why, maybe embedding rules, but honestly I don't mind much. 
+
+After a bit of work, I think it turned out OK. It would be a cool way to present information in addition to another method, but in this case, I don't think it really replaces additional explinations, rather just provides visual context. 
