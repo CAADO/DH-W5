@@ -24,3 +24,5 @@ I tried to use wikipedia pictures for the images, but that seems to have brutall
 After a bit of work, I think it turned out OK. It would be a cool way to present information in addition to another method, but in this case, I don't think it really replaces additional explinations, rather just provides visual context. 
 
 After a reasonable amount of effort, inlcuding checking back a differnt day on a differnt browser, I can't get twotone to work for me. The site seems to be down. 
+
+After seeing the discord message, I think I'm going to stop here for the week. I've never done audio work before, and I spent a frankly embarassing amount of time on these two things. I learned quite a bit, however. 
