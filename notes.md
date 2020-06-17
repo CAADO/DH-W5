@@ -22,3 +22,5 @@ For the mapping side, I decided I wanted to tell a story I've found out through 
 I tried to use wikipedia pictures for the images, but that seems to have brutally failed. Not really sure why, maybe embedding rules, but honestly I don't mind much. 
 
 After a bit of work, I think it turned out OK. It would be a cool way to present information in addition to another method, but in this case, I don't think it really replaces additional explinations, rather just provides visual context. 
+
+After a reasonable amount of effort, inlcuding checking back a differnt day on a differnt browser, I can't get twotone to work for me. The site seems to be down. 
